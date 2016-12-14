@@ -1,4 +1,4 @@
-# An-Grocery-Store-JDBC-
+# A-Grocery-Store-JDBC-
 CS425 Fall 2016 
 
 Overview
